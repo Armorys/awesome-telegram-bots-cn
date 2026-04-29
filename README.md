@@ -99,6 +99,7 @@
 - **[@utubest_Bot](https://t.me/utubest_Bot)** — YouTube 视频下载
 - **[@Vkmusic_bot](https://t.me/Vkmusic_bot)** — 音乐搜索与下载
 - **[@fileandbot](https://t.me/fileandbot)** — 文件保存到 Telegram
+- **[@cybercollectorbot](https://t.me/cybercollectorbot)** — Cyber Collector: download videos from TikTok (no watermark), Instagram Reels/Stories, YouTube Shorts, X/Twitter and Facebook. No signup required.
 
 ---
 
