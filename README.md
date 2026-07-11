@@ -108,7 +108,7 @@
 - **[@RustRssBot](https://t.me/RustRssBot)** — RSS 订阅工具
 - **[@FileConverterBot](https://t.me/FileConverterBot)** — 文件格式转换
 - **[@GmailBot](https://t.me/GmailBot)** — Gmail 邮件通知
-- **[@my_weight_goal_bot](https://t.me/my_weight_goal_bot)** — 群组每周减重目标、照片打卡、进度图、提醒和 53 周成就，支持中文、英语和俄语（[开源代码](https://github.com/IgorShadurin/weight-telegram-bot)，Apache-2.0）
+- **[@my_weight_goal_bot](https://t.me/my_weight_goal_bot)** — 在群聊里用照片打卡每周体重，查看进度图、提醒和 53 周趣味成就；自然支持中文等 9 种语言（[开源代码](https://github.com/IgorShadurin/weight-telegram-bot)，Apache-2.0）
 
 ---
 
