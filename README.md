@@ -39,7 +39,7 @@
 | 机器人 | 场景 | 说明 |
 |------|------|------|
 | **[BotFather](https://t.me/BotFather)** | 创建机器人 | 官方入口：创建和管理你自己的机器人 |
-| **[极搜](https://t.me/jiso)** | 资源搜索 | 搜索群、频道、视频、音乐、电影、新闻 |
+| **[极搜](https://t.me/jisou?start=a_6471342391)** | 资源搜索 | 搜索群、频道、视频、音乐、电影、新闻 |
 | **[Combot](https://t.me/combot)** | 群管理 | 功能全面的群管理、统计与反垃圾 |
 | **[Shieldy](https://t.me/shieldy_bot)** | 入群验证 | 新人验证码验证，拦截刷群机器人 |
 | **[GPT-4 Telegram Bot](https://t.me/GPT4Telegrambot)** | AI 对话 | ChatGPT、Claude、Gemini、DeepSeek 与 AI 绘画，月活约 508 万 |
