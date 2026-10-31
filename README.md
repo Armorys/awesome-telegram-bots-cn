@@ -28,7 +28,7 @@
 
 ## 📦 子项目
 
-- [Telegram AI 机器人精选](https://github.com/lrbiloo1/awesome-telegram-bots-ai)
+- [Telegram AI 机器人精选](https://github.com/Armorys/awesome-telegram-bots-ai)
 
 ---
 
@@ -103,7 +103,7 @@
 
 ## AI 机器人
 
-AI 机器人迭代很快，本节只收录已核验主页、仍在活跃运营的机器人；涉及付费的请先小额试用。更多见子项目 [Telegram AI 机器人精选](https://github.com/lrbiloo1/awesome-telegram-bots-ai)。
+AI 机器人迭代很快，本节只收录已核验主页、仍在活跃运营的机器人；涉及付费的请先小额试用。更多见子项目 [Telegram AI 机器人精选](https://github.com/Armorys/awesome-telegram-bots-ai)。
 
 | 机器人 | 功能说明 | 月活（参考） |
 |------|------|------|

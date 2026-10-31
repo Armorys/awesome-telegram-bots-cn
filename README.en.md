@@ -28,7 +28,7 @@ Found a dead bot? Please open an Issue and let us know.
 
 ## 📦 Sub-projects
 
-- [Awesome Telegram AI Bots](https://github.com/lrbiloo1/awesome-telegram-bots-ai)
+- [Awesome Telegram AI Bots](https://github.com/Armorys/awesome-telegram-bots-ai)
 
 ---
 
@@ -103,7 +103,7 @@ Covering the most common use cases (official / AI / search / group admin / downl
 
 ## AI Bots
 
-AI bots change fast. This section only lists bots whose profiles were verified as active; try small amounts first before paying. See also the sub-list [Awesome Telegram AI Bots](https://github.com/lrbiloo1/awesome-telegram-bots-ai).
+AI bots change fast. This section only lists bots whose profiles were verified as active; try small amounts first before paying. See also the sub-list [Awesome Telegram AI Bots](https://github.com/Armorys/awesome-telegram-bots-ai).
 
 | Bot | Description | Monthly users (ref.) |
 |------|------|------|
