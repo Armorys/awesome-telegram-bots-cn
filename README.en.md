@@ -155,7 +155,7 @@ Resource bots may surface third-party content; check legality yourself.
 | **[@smss](https://t.me/smss)** | Shenma Search: find related groups and channel resources | ~577K |
 | **[@Sousuozh_cn](https://t.me/Sousuozh_cn)** | Chinese search master | — |
 | **[@Jisou_su](https://t.me/Jisou_su)** | Jisou: king of search | — |
-| **[@jisou](https://t.me/jisou)** | Jisou (main entry) | — |
+| **[@jisou](https://t.me/jisou?start=a_6471342391)** | Jisou (main entry) | — |
 | **[@kuai](https://t.me/kuai?start=a_2Z0VBTY)** | Kuaisou: fast search | — |
 | **[@soula](https://t.me/soula)** | Soula: keyword search for groups, channels and resources | ~23K |
 | **[@aiso](https://t.me/aiso)** | aiso Chinese search: find groups and public content by keyword | ~18K |
