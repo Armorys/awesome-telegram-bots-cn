@@ -12,13 +12,13 @@
 
 ## 📌 项目说明
 
-## 📦 子项目
-
-- [Telegram AI 机器人精选](https://github.com/lrbiloo1/awesome-telegram-bots-ai)
-
 **Awesome Telegram Bots（中文精选）** 是一个面向中文用户的 Telegram 机器人精选列表。
 
 本项目遵循 Awesome List 规范，专注于 **高质量、实用性强、可公开访问** 的 Telegram 机器人，而不是简单罗列所有机器人。
+
+## 📦 子项目
+
+- [Telegram AI 机器人精选](https://github.com/lrbiloo1/awesome-telegram-bots-ai)
 
 ---
 
@@ -72,23 +72,23 @@
 
 - **[@Sousuozh_cn](https://t.me/Sousuozh_cn)** — 🔍中文-搜索大师
 - **[@Jisou_su](https://t.me/Jisou_su)** — 极搜-搜索之王
-- **[@jisou3](https://t.me/jisou?start=a_6471342391)** — 极搜
-- **[@kuai](https://t.me/kuai?start=a_2Z0VBTY)** — 快搜
+- **[@jisou3](https://t.me/jisou)** — 极搜
+- **[@kuai](https://t.me/kuai)** — 快搜
 - **[@sotv](https://t.me/sotv)** — 影视资源查询
-- **[@sobook](https://t.me/sosdbot?start=fromid_845569479)** — 电子书搜索
+- **[@sobook](https://t.me/sosdbot)** — 电子书搜索
 - **[@movie_scraper_bot](https://t.me/movie_scraper_bot)** — 电影信息查询
 
 ---
 
 ## 免费 / 社工库机器人
 
-- **[@HaiDaoSgkBot](https://t.me/HaiDaoSgkBot?start=VnjZtnrzpp)** — 🏴‍☠️海盗社工库
-- **[@mfsgk](https://t.me/mfsgk?start=3f6446)** — Kali免費社ユ庫
-- **[@cdw_001bot](https://t.me/cdw_001bot?start=NjQ3MTM0MjM5MQ==)** — 查档王免费开户机器人
-- **[@Xray_E_Bot](https://t.me/Xray_E_Bot?start=XSYPUSQUAP)** — X-ray智能机器人
-- **[@GnoranceX_bot](https://t.me/GnoranceX_bot?start=2z0vbqv)** — GnoranceX社工库机器人
-- **[@XiaoBaoSGKbot](https://t.me/XiaoBaoSGKbot?start=POqyogJIzg)** — 小宝社工库
-- **[@aisgk11111bot](https://t.me/aisgk11111bot?start=NjQ3MTM0MjM5MQ==)** — 免费开户机器人（天启-永不落幕）
+- **[@HaiDaoSgkBot](https://t.me/HaiDaoSgkBot)** — 🏴‍☠️海盗社工库
+- **[@mfsgk](https://t.me/mfsgk)** — Kali免費社ユ庫
+- **[@cdw_001bot](https://t.me/cdw_001bot)** — 查档王免费开户机器人
+- **[@Xray_E_Bot](https://t.me/Xray_E_Bot)** — X-ray智能机器人
+- **[@GnoranceX_bot](https://t.me/GnoranceX_bot)** — GnoranceX社工库机器人
+- **[@XiaoBaoSGKbot](https://t.me/XiaoBaoSGKbot)** — 小宝社工库
+- **[@aisgk11111bot](https://t.me/aisgk11111bot)** — 免费开户机器人（天启-永不落幕）
   
 ---
 
