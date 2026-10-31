@@ -39,7 +39,7 @@ Covering the most common use cases (official / AI / search / group admin / downl
 | Bot | Use case | Notes |
 |------|------|------|
 | **[BotFather](https://t.me/BotFather)** | Create bots | Official entry point to create and manage your own bots |
-| **[极搜](https://t.me/jiso)** | Search | Search groups, channels, videos, music, movies and news |
+| **[极搜](https://t.me/jisou?start=a_6471342391)** | Search | Search groups, channels, videos, music, movies and news |
 | **[Combot](https://t.me/combot)** | Group admin | Full-featured group management, analytics and anti-spam |
 | **[Shieldy](https://t.me/shieldy_bot)** | Join captcha | Captcha verification that blocks raid bots |
 | **[GPT-4 Telegram Bot](https://t.me/GPT4Telegrambot)** | AI chat | ChatGPT, Claude, Gemini, DeepSeek and image generation, ~5.08M monthly users |
@@ -149,14 +149,14 @@ Resource bots may surface third-party content; check legality yourself.
 
 | Bot | Description | Monthly users (ref.) |
 |------|------|------|
-| **[@jiso](https://t.me/jiso)** | Jisou: search groups, channels, videos, music, movies and news | ~373K |
-| **[@soso](https://t.me/soso)** | SOSO: keyword search for groups, channels and videos | ~1.12M |
+| **[@jiso](https://t.me/jisou?start=a_6471342391)** | Jisou: search groups, channels, videos, music, movies and news | ~373K |
+| **[@soso](https://t.me/soso?start=a_6471342391)** | SOSO: keyword search for groups, channels and videos | ~1.12M |
 | **[@CJSY](https://t.me/CJSY)** | Super Index: multi-dimensional search for groups, channels and media | ~841K |
 | **[@smss](https://t.me/smss)** | Shenma Search: find related groups and channel resources | ~577K |
 | **[@Sousuozh_cn](https://t.me/Sousuozh_cn)** | Chinese search master | — |
 | **[@Jisou_su](https://t.me/Jisou_su)** | Jisou: king of search | — |
 | **[@jisou](https://t.me/jisou)** | Jisou (main entry) | — |
-| **[@kuai](https://t.me/kuai)** | Kuaisou: fast search | — |
+| **[@kuai](https://t.me/kuai?start=a_2Z0VBTY)** | Kuaisou: fast search | — |
 | **[@soula](https://t.me/soula)** | Soula: keyword search for groups, channels and resources | ~23K |
 | **[@aiso](https://t.me/aiso)** | aiso Chinese search: find groups and public content by keyword | ~18K |
 | **[@ikuaisobot](https://t.me/ikuaisobot)** | iKuaisou: Chinese group and resource search | — |
