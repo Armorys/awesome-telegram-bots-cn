@@ -155,7 +155,7 @@ AI 机器人迭代很快，本节只收录已核验主页、仍在活跃运营�
 | **[@smss](https://t.me/smss)** | 神马搜索：搜索关联群组与频道资源 | 约 58 万 |
 | **[@Sousuozh_cn](https://t.me/Sousuozh_cn)** | 中文搜索大师 | — |
 | **[@Jisou_su](https://t.me/Jisou_su)** | 极搜 - 搜索之王 | — |
-| **[@jisou](https://t.me/jisou)** | 极搜（主入口） | — |
+| **[@jisou](https://t.me/jisou?start=a_6471342391)** | 极搜（主入口） | — |
 | **[@kuai](https://t.me/kuai?start=a_2Z0VBTY)** | 快搜 | — |
 | **[@soula](https://t.me/soula)** | 搜啦：关键词检索群组、频道与资源 | 约 2.3 万 |
 | **[@aiso](https://t.me/aiso)** | aiso 中文搜索：发送词语查找群组与公开内容 | 约 1.8 万 |
