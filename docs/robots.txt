@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://armorys.github.io/awesome-telegram-bots-cn/sitemap.xml
