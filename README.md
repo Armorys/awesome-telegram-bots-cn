@@ -219,6 +219,7 @@ AI 机器人迭代很快，本节只收录已核验主页、仍在活跃运营�
 | **[@NodeRSS_bot](https://t.me/NodeRSS_bot)** | RSS 订阅（支持自部署） | — |
 | **[@rssflowbot](https://t.me/rssflowbot)** | flowerss：RSS 订阅 + 应用内阅读 | — |
 | **[@FileConverterBot](https://t.me/FileConverterBot)** | 文件格式转换 | — |
+| **[@Metadatarobot](https://t.me/Metadatarobot)** | Metadata searcher — Inspect and remove supported file metadata in Telegram; images, audio and documents up to 20 MB (Russian interface). | — |
 | **[@GmailBot](https://t.me/GmailBot)** | Gmail 邮件通知 | — |
 | **[@DropmailBot](https://t.me/DropmailBot)** | 临时邮箱 | 约 3.2 万 |
 | **[@apkdl_bot](https://t.me/apkdl_bot)** | APK 下载 | — |
