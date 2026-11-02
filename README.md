@@ -32,6 +32,12 @@
 
 ---
 
+## 🔥 本站推荐：全球黑客新闻推送
+
+> **[@HackerNewsPush_bot](https://t.me/HackerNewsPush_bot)** — 全球黑客与网络安全新闻精选推送：聚合 The Hacker News、BleepingComputer、Dark Reading 等 8 家一线安全媒体，带图 + 摘要，每 3 小时更新。订阅频道 **[@hackernewer](https://t.me/hackernewer)**，第一时间掌握勒索软件、数据泄露与重大漏洞动态。
+
+---
+
 ## 精选必装 Top 10
 
 覆盖最高频的使用场景（官方 / AI / 搜索 / 群管理 / 下载 / 订阅 / 娱乐），第一次用 Telegram 机器人先装这 10 个。本区与下方分类有重复，方便快速上手。
@@ -62,6 +68,7 @@
 
 ## 📚 目录
 
+- [本站推荐：全球黑客新闻推送](#-本站推荐全球黑客新闻推送)
 - [精选必装 Top 10](#精选必装-top-10)
 - [如何把机器人加到群组](#如何把机器人加到群组)
 - [官方 & 开发工具](#官方--开发工具)
@@ -242,6 +249,7 @@ AI 机器人迭代很快，本节只收录已核验主页、仍在活跃运营�
 
 | 机器人 | 功能说明 | 月活（参考） |
 |------|------|------|
+| **[@HackerNewsPush_bot](https://t.me/HackerNewsPush_bot)** | 全球黑客与网络安全新闻推送（配套频道 [@hackernewer](https://t.me/hackernewer)，每 3 小时更新） | — |
 | **[@TranslatorBot](https://t.me/TranslatorBot)** | 多语言翻译 | — |
 | **[@TranslateBot](https://t.me/TranslateBot)** | Google 翻译引擎，多语言双向互译 | — |
 | **[@YTranslateBot](https://t.me/YTranslateBot)** | Yandex 翻译引擎，多语言支持 | 约 4.1 万 |
