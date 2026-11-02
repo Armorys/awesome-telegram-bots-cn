@@ -32,6 +32,12 @@ Found a dead bot? Please open an Issue and let us know.
 
 ---
 
+## 🔥 Featured: Global Hacker News Push
+
+> **[@HackerNewsPush_bot](https://t.me/HackerNewsPush_bot)** — Curated global hacking & cybersecurity news: aggregates 8 top security outlets (The Hacker News, BleepingComputer, Dark Reading and more) with images and summaries, updated every 3 hours. Subscribe to **[@hackernewer](https://t.me/hackernewer)** for ransomware, data breach and critical vulnerability alerts.
+
+---
+
 ## Top 10 Must-Haves
 
 Covering the most common use cases (official / AI / search / group admin / downloads / subscriptions / fun). Start with these 10. This section overlaps the categories below on purpose, for a quick start.
@@ -242,6 +248,7 @@ Respect platform copyright rules; for personal learning use only.
 
 | Bot | Description | Monthly users (ref.) |
 |------|------|------|
+| **[@HackerNewsPush_bot](https://t.me/HackerNewsPush_bot)** | Global hacking & cybersecurity news push (channel [@hackernewer](https://t.me/hackernewer), updated every 3 hours) | — |
 | **[@TranslatorBot](https://t.me/TranslatorBot)** | Multi-language translator | — |
 | **[@TranslateBot](https://t.me/TranslateBot)** | Google Translate engine, multi-language | — |
 | **[@YTranslateBot](https://t.me/YTranslateBot)** | Yandex Translate engine, multi-language | ~41K |
