@@ -34,7 +34,7 @@
 
 ## 🔥 本站推荐：全球黑客新闻推送
 
-> **[@HackerNewsPush_bot](https://t.me/HackerNewsPush_bot)** — 全球黑客与网络安全新闻精选推送：聚合 The Hacker News、BleepingComputer、Dark Reading 等 8 家一线安全媒体，带图 + 摘要，每 3 小时更新。订阅频道 **[@hackernewer](https://t.me/hackernewer)**，第一时间掌握勒索软件、数据泄露与重大漏洞动态。
+> **[@HackerNewsPush_bot](https://t.me/HackerNewsPush_bot)** — 全球黑客与网络安全新闻精选推送：聚合 The Hacker News、BleepingComputer、Dark Reading 等 8 家一线安全媒体，带图 + 摘要，24小时更新。订阅频道 **[@hackernewer](https://t.me/hackernewer)**，第一时间掌握勒索软件、数据泄露与重大漏洞动态。
 
 ---
 
