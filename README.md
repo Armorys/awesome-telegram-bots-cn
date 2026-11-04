@@ -160,7 +160,7 @@ AI 机器人迭代很快，本节只收录已核验主页、仍在活跃运营�
 | **[@soso](https://t.me/soso?start=a_6471342391)** | SOSO 搜搜：关键词搜索群组、频道、视频 | 约 112 万 |
 | **[@CJSY](https://t.me/CJSY)** | 超级索引：多维度搜索群组、频道与媒体 | 约 84 万 |
 | **[@smss](https://t.me/smss)** | 神马搜索：搜索关联群组与频道资源 | 约 58 万 |
-| **[@Sousuozh_cn](https://t.me/Sousuozh_cn)** | 中文搜索大师 | — |
+| **[@souqings](https://t.me/souqings)** | 中文搜索大师 | — |
 | **[@Jisou_su](https://t.me/Jisou_su)** | 极搜 - 搜索之王 | — |
 | **[@jisou](https://t.me/jisou?start=a_6471342391)** | 极搜（主入口） | — |
 | **[@kuai](https://t.me/kuai?start=a_2Z0VBTY)** | 快搜 | — |
