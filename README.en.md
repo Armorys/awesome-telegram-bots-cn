@@ -159,7 +159,7 @@ Resource bots may surface third-party content; check legality yourself.
 | **[@soso](https://t.me/soso?start=a_6471342391)** | SOSO: keyword search for groups, channels and videos | ~1.12M |
 | **[@CJSY](https://t.me/CJSY)** | Super Index: multi-dimensional search for groups, channels and media | ~841K |
 | **[@smss](https://t.me/smss)** | Shenma Search: find related groups and channel resources | ~577K |
-| **[@souqings](https://t.me/souqings)** | Chinese search master | — |
+| **[@souqings](https://t.me/souqings)** | SOUQING | — |
 | **[@Jisou_su](https://t.me/Jisou_su)** | Jisou: king of search | — |
 | **[@jisou](https://t.me/jisou?start=a_6471342391)** | Jisou (main entry) | — |
 | **[@kuai](https://t.me/kuai?start=a_2Z0VBTY)** | Kuaisou: fast search | — |
