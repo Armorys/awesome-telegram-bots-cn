@@ -34,7 +34,7 @@ Found a dead bot? Please open an Issue and let us know.
 
 ## 🔥 Featured: Global Hacker News Push
 
-> **[@HackerNewsPush_bot](https://t.me/HackerNewsPush_bot)** — Curated global hacking & cybersecurity news: aggregates 8 top security outlets (The Hacker News, BleepingComputer, Dark Reading and more) with images and summaries, updated every 3 hours. Subscribe to **[@hackernewer](https://t.me/hackernewer)** for ransomware, data breach and critical vulnerability alerts.
+> **[@HackerNewsPush_bot](https://t.me/HackerNewsPush_bot)** — Curated global hacking & cybersecurity news: aggregates 8 top security outlets (The Hacker News, BleepingComputer, Dark Reading and more) with images and summaries, updated 24 hours a day. Subscribe to **[@hackernewer](https://t.me/hackernewer)** for ransomware, data breach and critical vulnerability alerts.
 
 ---
 
