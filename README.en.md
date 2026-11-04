@@ -211,6 +211,7 @@ Respect platform copyright rules; for personal learning use only.
 | **[@Vkmusic_bot](https://t.me/Vkmusic_bot)** | Music search and download | — |
 | **[@GIFDownloader_bot](https://t.me/GIFDownloader_bot)** | GIF downloader | — |
 | **[@fileandbot](https://t.me/fileandbot)** | Save files to Telegram | — |
+| **[@cybercollectorbot](https://t.me/cybercollectorbot)** | Download videos from TikTok (no watermark), Instagram Reels/Stories, YouTube Shorts, X/Twitter and Facebook, no signup | — |
 
 
 ---
@@ -228,6 +229,7 @@ Respect platform copyright rules; for personal learning use only.
 | **[@GmailBot](https://t.me/GmailBot)** | Gmail mail notifications | — |
 | **[@DropmailBot](https://t.me/DropmailBot)** | Disposable temporary email | ~32K |
 | **[@apkdl_bot](https://t.me/apkdl_bot)** | APK downloader | — |
+| **[@Metadatarobot](https://t.me/Metadatarobot)** | Inspect and remove file metadata: images, audio and documents up to 20 MB (Russian interface) | — |
 
 
 ---

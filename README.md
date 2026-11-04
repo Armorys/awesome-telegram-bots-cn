@@ -212,6 +212,7 @@ AI 机器人迭代很快，本节只收录已核验主页、仍在活跃运营�
 | **[@Vkmusic_bot](https://t.me/Vkmusic_bot)** | 音乐搜索与下载 | — |
 | **[@GIFDownloader_bot](https://t.me/GIFDownloader_bot)** | GIF 图片下载 | — |
 | **[@fileandbot](https://t.me/fileandbot)** | 文件保存到 Telegram | — |
+| **[@cybercollectorbot](https://t.me/cybercollectorbot)** | 多平台视频下载：TikTok（无水印）、Instagram Reels/Stories、YouTube Shorts、X、Facebook，无需注册 | — |
 
 
 ---
@@ -229,6 +230,7 @@ AI 机器人迭代很快，本节只收录已核验主页、仍在活跃运营�
 | **[@GmailBot](https://t.me/GmailBot)** | Gmail 邮件通知 | — |
 | **[@DropmailBot](https://t.me/DropmailBot)** | 临时邮箱 | 约 3.2 万 |
 | **[@apkdl_bot](https://t.me/apkdl_bot)** | APK 下载 | — |
+| **[@Metadatarobot](https://t.me/Metadatarobot)** | 文件元数据查看与移除：图片、音频、文档（≤20 MB），俄语界面 | — |
 
 
 ---
