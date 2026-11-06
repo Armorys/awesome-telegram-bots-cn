@@ -160,7 +160,7 @@ Resource bots may surface third-party content; check legality yourself.
 | **[@CJSY](https://t.me/CJSY)** | Super Index: multi-dimensional search for groups, channels and media | ~841K |
 | **[@smss](https://t.me/smss)** | Shenma Search: find related groups and channel resources | ~577K |
 | **[@souqings](https://t.me/souqings)** | SOUQING | — |
-| **[@Jisou_su](https://t.me/Jisou_su)** | Jisou: king of search | — |
+| **[@SearcheeBot](https://t.me/SearcheeBot)** | Search Telegram channels and groups (by TGStat) | ~250K |
 | **[@jisou](https://t.me/jisou?start=a_6471342391)** | Jisou (main entry) | — |
 | **[@kuai](https://t.me/kuai?start=a_2Z0VBTY)** | Kuaisou: fast search | — |
 | **[@soula](https://t.me/soula)** | Soula: keyword search for groups, channels and resources | ~23K |
@@ -187,7 +187,6 @@ Listed for information only. Never use them to invade privacy or break the law.
 |------|------|------|
 | **[@HaiDaoSgkBot](https://t.me/HaiDaoSgkBot)** | Social-database lookup bot | — |
 | **[@mfsgk](https://t.me/mfsgk)** | Free social-database lookup bot | — |
-| **[@cdw_001bot](https://t.me/cdw_001bot)** | Free record-lookup bot | — |
 | **[@Xray_E_Bot](https://t.me/Xray_E_Bot)** | X-ray smart lookup bot | — |
 | **[@GnoranceX_bot](https://t.me/GnoranceX_bot)** | GnoranceX social-database bot | — |
 | **[@XiaoBaoSGKbot](https://t.me/XiaoBaoSGKbot)** | Xiaobao social-database bot | — |
@@ -203,14 +202,13 @@ Respect platform copyright rules; for personal learning use only.
 | Bot | Description | Monthly users (ref.) |
 |------|------|------|
 | **[@freedlvideo_bot](https://t.me/freedlvideo_bot)** | Multi-platform downloader: X, YouTube, Bilibili, Douyin, Xiaohongshu, Instagram and more | — |
-| **[@SaveVideoBot](https://t.me/SaveVideoBot)** | Multi-platform video downloader | — |
+| **[@download_media_4bot](https://t.me/download_media_4bot)** | Multi-platform video/image/audio downloader: TikTok, Instagram, YouTube, X and 6 more | — |
 | **[@GetMediaBot](https://t.me/GetMediaBot)** | General media downloader | — |
 | **[@utubest_Bot](https://t.me/utubest_Bot)** | YouTube video downloader | — |
 | **[@YtbDownBot](https://t.me/YtbDownBot)** | YouTube video downloader | ~46K |
 | **[@bilibiliparse_bot](https://t.me/bilibiliparse_bot)** | AI parser: Bilibili + multi-platform video parsing | — |
 | **[@Vkmusic_bot](https://t.me/Vkmusic_bot)** | Music search and download | — |
 | **[@GIFDownloader_bot](https://t.me/GIFDownloader_bot)** | GIF downloader | — |
-| **[@fileandbot](https://t.me/fileandbot)** | Save files to Telegram | — |
 | **[@cybercollectorbot](https://t.me/cybercollectorbot)** | Download videos from TikTok (no watermark), Instagram Reels/Stories, YouTube Shorts, X/Twitter and Facebook, no signup | — |
 
 

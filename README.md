@@ -161,7 +161,7 @@ AI 机器人迭代很快，本节只收录已核验主页、仍在活跃运营�
 | **[@CJSY](https://t.me/CJSY)** | 超级索引：多维度搜索群组、频道与媒体 | 约 84 万 |
 | **[@smss](https://t.me/smss)** | 神马搜索：搜索关联群组与频道资源 | 约 58 万 |
 | **[@souqings](https://t.me/souqings)** | 搜擎 · SOUQING | — |
-| **[@Jisou_su](https://t.me/Jisou_su)** | 极搜 - 搜索之王 | — |
+| **[@SearcheeBot](https://t.me/SearcheeBot)** | 搜索 Telegram 频道与群组（TGStat 出品） | 约 25 万 |
 | **[@jisou](https://t.me/jisou?start=a_6471342391)** | 极搜（主入口） | — |
 | **[@kuai](https://t.me/kuai?start=a_2Z0VBTY)** | 快搜 | — |
 | **[@soula](https://t.me/soula)** | 搜啦：关键词检索群组、频道与资源 | 约 2.3 万 |
@@ -188,7 +188,6 @@ AI 机器人迭代很快，本节只收录已核验主页、仍在活跃运营�
 |------|------|------|
 | **[@HaiDaoSgkBot](https://t.me/HaiDaoSgkBot)** | 海盗社工库 | — |
 | **[@mfsgk](https://t.me/mfsgk)** | Kali 免費社工庫 | — |
-| **[@cdw_001bot](https://t.me/cdw_001bot)** | 查档王免费开户机器人 | — |
 | **[@Xray_E_Bot](https://t.me/Xray_E_Bot)** | X-ray 智能机器人 | — |
 | **[@GnoranceX_bot](https://t.me/GnoranceX_bot)** | GnoranceX 社工库机器人 | — |
 | **[@XiaoBaoSGKbot](https://t.me/XiaoBaoSGKbot)** | 小宝社工库 | — |
@@ -204,14 +203,13 @@ AI 机器人迭代很快，本节只收录已核验主页、仍在活跃运营�
 | 机器人 | 功能说明 | 月活（参考） |
 |------|------|------|
 | **[@freedlvideo_bot](https://t.me/freedlvideo_bot)** | 多平台解析下载：X、YouTube、B站、抖音、小红书、Instagram 等 | — |
-| **[@SaveVideoBot](https://t.me/SaveVideoBot)** | 多平台视频下载 | — |
+| **[@download_media_4bot](https://t.me/download_media_4bot)** | 多平台视频／图片／音频下载，支持 TikTok、Instagram、YouTube、X 等 10 个平台 | — |
 | **[@GetMediaBot](https://t.me/GetMediaBot)** | 通用媒体下载工具 | — |
 | **[@utubest_Bot](https://t.me/utubest_Bot)** | YouTube 视频下载 | — |
 | **[@YtbDownBot](https://t.me/YtbDownBot)** | YouTube 视频下载 | 约 4.6 万 |
 | **[@bilibiliparse_bot](https://t.me/bilibiliparse_bot)** | AI 在线解析：B站 + 多平台视频解析 | — |
 | **[@Vkmusic_bot](https://t.me/Vkmusic_bot)** | 音乐搜索与下载 | — |
 | **[@GIFDownloader_bot](https://t.me/GIFDownloader_bot)** | GIF 图片下载 | — |
-| **[@fileandbot](https://t.me/fileandbot)** | 文件保存到 Telegram | — |
 | **[@cybercollectorbot](https://t.me/cybercollectorbot)** | 多平台视频下载：TikTok（无水印）、Instagram Reels/Stories、YouTube Shorts、X、Facebook，无需注册 | — |
 
 
