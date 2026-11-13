@@ -29,6 +29,7 @@
 ## 📦 子项目
 
 - [Telegram AI 机器人精选](https://github.com/Armorys/awesome-telegram-bots-ai)
+- [3D 机器人个人导航站 · 搭建教程](https://github.com/Armorys/personal-navigation-website) —— 作者的个人网站 [l.lrbilool.kdns.fr](https://l.lrbilool.kdns.fr/) 就是按这篇教程搭的：会动的 3D 机器人 + 链接面板，免费跑在 Cloudflare Workers 上
 
 ---
 
