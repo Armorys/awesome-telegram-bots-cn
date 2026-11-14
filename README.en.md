@@ -29,6 +29,7 @@ Found a dead bot? Please open an Issue and let us know.
 ## 📦 Sub-projects
 
 - [Awesome Telegram AI Bots](https://github.com/Armorys/awesome-telegram-bots-ai)
+- [3D Robot Personal Navigation Site · Build Tutorial](https://github.com/Armorys/personal-navigation-website) — the author's personal site [l.lrbilool.kdns.fr](https://l.lrbilool.kdns.fr/) was built with this tutorial: an animated 3D robot + link dashboard, running free on Cloudflare Workers
 
 ---
 
